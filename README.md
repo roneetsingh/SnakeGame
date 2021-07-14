@@ -1,7 +1,7 @@
 # SnakeGame
 A simple snake game built using pygame.
 
-Tech Used: BeautifulSoup, Pygame, auto-py-to-exe
+Tech Used: Pygame, auto-py-to-exe
 
 # Run
 - Normally run the snake.py to play the game.
